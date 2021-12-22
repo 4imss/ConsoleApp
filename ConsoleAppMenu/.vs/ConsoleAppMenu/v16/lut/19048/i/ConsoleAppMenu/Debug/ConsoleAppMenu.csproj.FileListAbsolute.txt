@@ -1,0 +1,6 @@
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\.vs\ConsoleAppMenu\v16\lut\0\b\ConsoleAppMenu.exe.config
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\.vs\ConsoleAppMenu\v16\lut\0\b\ConsoleAppMenu.exe
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\.vs\ConsoleAppMenu\v16\lut\0\i\ConsoleAppMenu\Debug\ConsoleAppMenu.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\.vs\ConsoleAppMenu\v16\lut\0\i\ConsoleAppMenu\Debug\ConsoleAppMenu.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\.vs\ConsoleAppMenu\v16\lut\0\i\ConsoleAppMenu\Debug\ConsoleAppMenu.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\.vs\ConsoleAppMenu\v16\lut\0\i\ConsoleAppMenu\Debug\ConsoleAppMenu.exe

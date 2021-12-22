@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\ConsoleAppMenu\bin\Debug\ConsoleAppMenu.exe.config
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\ConsoleAppMenu\bin\Debug\ConsoleAppMenu.exe
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\ConsoleAppMenu\bin\Debug\ConsoleAppMenu.pdb
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\ConsoleAppMenu\obj\Debug\ConsoleAppMenu.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\ConsoleAppMenu\obj\Debug\ConsoleAppMenu.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\ConsoleAppMenu\obj\Debug\ConsoleAppMenu.exe
+C:\Users\Gebruiker\Desktop\Visual projecten\ConsoleAppMenu\ConsoleAppMenu\obj\Debug\ConsoleAppMenu.pdb
